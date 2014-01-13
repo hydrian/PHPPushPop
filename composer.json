@@ -1,0 +1,20 @@
+{
+  "name" : "hydrian/PHPPushPop",
+  "type" : "utility",
+  "description" : "pushd / popd functionality for PHP",
+  "keywords" : ["utility","popd","pushd"],
+  "homepage" : "https://github.com/hydrian/PHPPushPop",
+  "license" : "Apache 2.0",
+  "authors" : [
+    {
+      "name" : "Ben Tyger",
+      "email" : "ben.tyger@tygerclan.net",
+      "homepage" : "tygerclan.net",
+      "role" : "developer"
+    }
+  ],
+  requires : {
+    "php" : ">=5.3.0"
+  }
+}
+      
