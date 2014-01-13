@@ -3,13 +3,13 @@
   "type" : "utility",
   "description" : "pushd / popd functionality for PHP",
   "keywords" : ["utility","popd","pushd"],
-  "homepage" : "https://github.com/hydrian/PHPPushPop",
+  "homepage" : "https://github.com/hydrian/php-pushpop",
   "license" : "Apache 2.0",
   "authors" : [
     {
       "name" : "Ben Tyger",
       "email" : "ben.tyger@tygerclan.net",
-      "homepage" : "tygerclan.net",
+      "homepage" : "http://www.tygerclan.net",
       "role" : "developer"
     }
   ],
