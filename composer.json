@@ -1,5 +1,5 @@
 {
-  "name" : "hydrian/PHPPushPop",
+  "name" : "hydrian/php-pushpop",
   "type" : "utility",
   "description" : "pushd / popd functionality for PHP",
   "keywords" : ["utility","popd","pushd"],
