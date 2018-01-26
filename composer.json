@@ -4,7 +4,7 @@
   "description" : "pushd / popd functionality for PHP",
   "keywords" : ["utility","popd","pushd"],
   "homepage" : "https://github.com/hydrian/php-pushpop",
-  "license" : "Apache 2.0",
+  "license" : "Apache-2.0",
   "authors" : [
     {
       "name" : "Ben Tyger",
